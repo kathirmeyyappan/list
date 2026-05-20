@@ -96,7 +96,6 @@ table.dataTable tbody td.wrap-title {
 }
 
 table.dataTable tbody td.wrap-notes {
-  white-space: normal !important;
   word-break: break-word;
   min-width: 120px;
   max-width: 600px;
@@ -107,6 +106,7 @@ table.dataTable tbody td.wrap-notes {
 table.dataTable tbody td.wrap-notes .notes-inner {
   max-height: 60px;
   overflow: hidden;
+  white-space: pre-wrap;
 }
 
 table.dataTable tbody td.wrap-notes.expanded .notes-inner {
