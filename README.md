@@ -1,0 +1,1 @@
+This code basically pulls from the [life's work spreadsheet](https://docs.google.com/spreadsheets/d/1MCPi0GCz_YrLal50ey09ZvOqXGf8FH23XMC1TeP2etA) and displays it as a nice little CSV table. I've just moved out the directory from the [anime-sync](https://github.com/kathirmeyyappan/anime-sync) repo because I wanted to host it at kathirm.com/list independently.
