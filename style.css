@@ -86,6 +86,7 @@ table.dataTable tbody td {
   padding: 3px 8px;
   vertical-align: top;
   white-space: nowrap;
+  font-size: 13px !important;
 }
 
 table.dataTable tbody td.wrap-title {
